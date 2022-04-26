@@ -1,11 +1,11 @@
-# Day 4: YAMA
+# Day 6: YAMA
 
 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://github.com/handokoadjip/slicing-day-6-react)
 [![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/handokoadjip/slicing-day-6-react)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/handokoadjip/slicing-day-6-react/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Day 4, I will show you the slicing to react of the beautiful designs made by https://pin.it/aPijrEt.
+Day 6, I will show you the slicing to react of the beautiful designs made by https://pin.it/aPijrEt.
 
 For those who want to contribute, just fork or download as usual!
 
